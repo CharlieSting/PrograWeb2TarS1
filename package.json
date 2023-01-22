@@ -1,0 +1,23 @@
+{
+  "name": "prograweb2tars1",
+  "version": "1.0.0",
+  "description": "Tarea de programacion 2 semana 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieSting/PrograWeb2TarS1.git"
+  },
+  "author": "Carlos Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlieSting/PrograWeb2TarS1/issues"
+  },
+  "homepage": "https://github.com/CharlieSting/PrograWeb2TarS1#readme",
+  "dependencies": {
+    "@angular/cli": "^15.1.2",
+    "react": "^18.2.0"
+  }
+}
